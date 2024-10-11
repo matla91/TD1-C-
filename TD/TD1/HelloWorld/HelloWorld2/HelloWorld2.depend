@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1728565030 source:c:\users\hp\documents\informatique\c++\td\td1\helloworld\helloworld2\main.cpp
+	<iostream>
+	<string>
+	"printstring.h"
+
+1728564282 c:\users\hp\documents\informatique\c++\td\td1\helloworld\helloworld2\helloworld2.h
+
+1728566344 c:\users\hp\documents\informatique\c++\td\td1\helloworld\helloworld2\include\printstring.h
+	<iostream>
+
+1728566379 source:c:\users\hp\documents\informatique\c++\td\td1\helloworld\helloworld2\src\printstring.cpp
+	"printstring.h"
+	<iostream>
+
